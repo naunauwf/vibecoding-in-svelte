@@ -7,3 +7,9 @@ bun.lockb
 
 # Miscellaneous
 /static/
+
+# node modules
+node_modules/
+
+# agents
+.agent/
